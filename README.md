@@ -5,10 +5,6 @@
 </a>
 </p>
 
-<p align='left'>Para cualquier consulta puedes escribirme: <p><b><a href="mailto:madelynarana@gmail.com"><img src="assets/correo.svg" width="20px" alt="Correo"></a></b>
-<b><a href="https://t.me/madelynarana"><img src="assets/telegram.svg" width="20px" alt="Telegram"></a></b>
-<b><a href="https://wa.me/qr/5HTSKUXCHBFXC1"><img src="assets/whatsapp.svg" width="24px" alt="Whatsapp"></b></a>
+<p align='left'>Para cualquier consulta puedes escribirme a: <p><i><b><a href="mailto:madelynarana@gmail.com">madelynarana@gmail.com</a><p>
 
-<p align='center' width='100%'><h1><i>
-¡Gracias por leerme!  💜
-</i></h1></p> 
+<p><h1><i>¡Gracias por estar aquí!💜</i></h1></p> 
